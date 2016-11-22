@@ -1,0 +1,27 @@
+* {
+    font-family: 'Playball', cursive;
+   margin: 0px auto;
+    max-width: 1840px;
+}
+body{
+    background-color: #dae1dd;
+}
+
+.language {
+    width: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#language {
+    float: right;
+}
+header {
+    clear: both;
+    background-color:#3f373c;
+}
+header>p: {
+    display: inline;
+}
+#img-place {
+    width: 100%;
+}
